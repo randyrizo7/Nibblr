@@ -116,17 +116,5 @@ This project is currently maintained solo.
 Feedback, architectural suggestions, and collaboration ideas are welcome.  
 Please open an issue to start a discussion.
 
----
-
-## License
-
-MIT License (subject to change).
-
----
-
-## Author
-
-Sam  
-Healthcare integration engineer and computer science graduate student.
 
 Nibblr is being built as a real-world product and learning platform focused on mobile development, system design, and socially-driven recommendation UX.
